@@ -1,6 +1,8 @@
 # VS Code PowerOn Language Support
 This extension provides `PowerOn` language support for Visual Studio Code.
 
+Forked from https://github.com/0sawaqed/vscode-poweron.  This fork is intended to add features from [RepDev](https://github.com/jakepoz/RepDev) to this VS Code extension.
+
 
 ## Features:
 
